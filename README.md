@@ -1,0 +1,2 @@
+# MandelbrotFractal-Python
+Mandelbrot fractal
